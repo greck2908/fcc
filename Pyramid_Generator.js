@@ -55,3 +55,8 @@ let character = 'Hello';
 let count = 8;
 
 /*les13*/
+let character = 'Hello';
+let count = 8;
+console.log(count + 1);
+
+/*les14*/
