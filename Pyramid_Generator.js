@@ -51,3 +51,7 @@ secondCharacter = character;
 let character = 'Hello';
 
 /*les12*/
+let character = 'Hello';
+let count = 8;
+
+/*les13*/
