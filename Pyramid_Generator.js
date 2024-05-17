@@ -73,3 +73,9 @@ let count = 8;
 let rows = ["Naomi", "Quincy", "CamperChan"];
 
 /*les17*/
+let character = 'Hello';
+let count = 8;
+let rows = ["Naomi", "Quincy", "CamperChan"];
+console.log(rows[0]);
+
+/*les18*/
