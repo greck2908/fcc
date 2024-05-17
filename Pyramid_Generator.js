@@ -30,3 +30,10 @@ console.log(character);
 let secondCharacter;
 
 /*les8*/
+let character = 'Hello';
+console.log(character);
+character = "World";
+let secondCharacter;
+console.log(secondCharacter);
+
+/*les9*/
