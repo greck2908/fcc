@@ -60,3 +60,6 @@ let count = 8;
 console.log(count + 1);
 
 /*les14*/
+let count = 8;
+
+/*les15*/
