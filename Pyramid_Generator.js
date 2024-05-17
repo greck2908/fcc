@@ -12,3 +12,8 @@ let character = 'Hello';
 console.log(character);
 
 /*les5*/
+let character = 'Hello';
+character = "World";
+console.log(character);
+
+/*les6*/
