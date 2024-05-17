@@ -48,3 +48,6 @@ console.log(secondCharacter);
 secondCharacter = character;
 
 /*les11*/
+let character = 'Hello';
+
+/*les12*/
