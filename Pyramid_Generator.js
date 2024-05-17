@@ -68,3 +68,8 @@ let count = 8;
 let rows = [];
 
 /*les16*/
+let character = 'Hello';
+let count = 8;
+let rows = ["Naomi", "Quincy", "CamperChan"];
+
+/*les17*/
