@@ -1,4 +1,5 @@
 /*les1*/
-let character;
+//let character;
 
 /*les2*/
+let character = "Hello";
