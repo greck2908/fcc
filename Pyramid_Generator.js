@@ -84,6 +84,9 @@ console.log(rows);
 
 /*les19*/
 rows[2] = 10;
-rows[rows.length - 1];
+rows[rows.length - 1]; //(rows[rows.length - 1] = 10;)
 
 /*les20*/
+//просто удалить все
+
+/*les21*/
