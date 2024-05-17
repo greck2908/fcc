@@ -90,3 +90,8 @@ rows[rows.length - 1]; //(rows[rows.length - 1] = 10;)
 //просто удалить все
 
 /*les21*/
+let rows = ["Naomi", "Quincy", "CamperChan"];
+rows.push("freeCodeCamp");
+console.log(rows);
+
+/*les22*/
