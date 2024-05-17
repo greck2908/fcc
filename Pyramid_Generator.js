@@ -45,3 +45,6 @@ secondCharacter = "Test";
 console.log(secondCharacter);
 
 /*les10*/
+secondCharacter = character;
+
+/*les11*/
