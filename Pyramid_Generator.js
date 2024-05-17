@@ -83,3 +83,7 @@ rows[2] = 10;
 console.log(rows);
 
 /*les19*/
+rows[2] = 10;
+rows[rows.length - 1];
+
+/*les20*/
