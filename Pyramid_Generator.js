@@ -63,3 +63,8 @@ console.log(count + 1);
 let count = 8;
 
 /*les15*/
+let character = 'Hello';
+let count = 8;
+let rows = [];
+
+/*les16*/
