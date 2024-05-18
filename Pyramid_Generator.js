@@ -124,3 +124,8 @@ const count = 8;
 const rows = [];
 
 /*les28*/
+for ("iterator";
+    "condition";
+    "iteration") {}
+
+/*les29*/
