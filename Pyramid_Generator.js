@@ -106,3 +106,6 @@ let pushed = rows.push("freeCodeCamp");
 console.log(pushed);
 
 /*les24*/
+//просто удалить все
+
+/*les25*/
