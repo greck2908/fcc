@@ -129,3 +129,10 @@ for ("iterator";
     "iteration") {}
 
 /*les29*/
+for (let i = 0;
+    "condition";
+    "iteration") {
+
+}
+
+/*les30*/
