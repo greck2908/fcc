@@ -109,3 +109,8 @@ console.log(pushed);
 //просто удалить все
 
 /*les25*/
+let character = "Hello";
+let count = 8;
+let rows = [];
+
+/*les26*/
