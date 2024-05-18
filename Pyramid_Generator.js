@@ -136,3 +136,9 @@ for (let i = 0;
 }
 
 /*les30*/
+for (let i = 0; i < count;
+    "iteration") {
+
+}
+
+/*les31*/
