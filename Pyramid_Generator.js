@@ -102,3 +102,7 @@ console.log(popped);
 console.log(rows);
 
 /*les23*/
+let pushed = rows.push("freeCodeCamp");
+console.log(pushed);
+
+/*les24*/
