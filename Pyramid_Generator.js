@@ -114,3 +114,8 @@ let count = 8;
 let rows = [];
 
 /*les26*/
+const character = "Hello";
+const count = 8;
+const rows = [];
+
+/*les27*/
