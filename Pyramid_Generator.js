@@ -119,3 +119,8 @@ const count = 8;
 const rows = [];
 
 /*les27*/
+const character = "#";
+const count = 8;
+const rows = [];
+
+/*les28*/
