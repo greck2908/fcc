@@ -162,3 +162,6 @@ for (let i = 0; i < count; i = i + 1) {
 let result = "";
 
 /*les35*/
+console.log(result);
+
+/*les36*/
