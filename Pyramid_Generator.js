@@ -184,8 +184,7 @@ for (let i = 0; i < count; i = i + 1) {
 
 /*les40*/
 for (let i = 0; i < count; i = i + 1) {
-    rows.push(character);
-    character.repeat(i);
+    rows.push(character.repeat(i))
 }
 
 /*les41*/
