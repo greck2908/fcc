@@ -169,5 +169,12 @@ for (const row of rows) {}
 
 /*les37*/
 for (const row of rows) {
-  result = result + row;
+    result = result + row;
 }
+
+/*les38*/
+for (const row of rows) {
+    result = result + "\n" + row;
+}
+
+/*les39*/
