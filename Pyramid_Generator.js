@@ -168,3 +168,6 @@ console.log(result);
 for (const row of rows) {}
 
 /*les37*/
+for (const row of rows) {
+  result = result + row;
+}
