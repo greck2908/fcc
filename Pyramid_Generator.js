@@ -205,3 +205,10 @@ padRow();
 const call = padRow();
 
 /*les45*/
+function padRow() {
+
+}
+const call = padRow();
+console.log(call);
+
+/*les46*/
