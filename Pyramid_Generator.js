@@ -212,3 +212,8 @@ const call = padRow();
 console.log(call);
 
 /*les46*/
+function padRow() {
+    return ("Hello!");
+}
+
+/*les47*/
