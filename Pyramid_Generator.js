@@ -230,3 +230,8 @@ function padRow(name) {
 const call = padRow("name");
 
 /*les50*/
+function padRow(name) {
+    return character + name;
+}
+
+/*les50*/
