@@ -253,3 +253,11 @@ function padRow(name) {
 }
 
 /*les54*/
+function padRow() {
+  const test = "Testing";
+  return test;
+}
+const call = padRow();
+console.log(call);
+
+/*les55*/
