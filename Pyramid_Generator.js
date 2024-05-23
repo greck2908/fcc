@@ -268,4 +268,8 @@ const call = padRow();
 console.log(call);
 
 /*les56*/
+function padRow() {
 
+}
+
+/*les57*/
