@@ -278,3 +278,8 @@ function padRow(rowNumber, rowCount) {
 }
 
 /*les58*/
+function padRow(rowNumber, rowCount) {
+    return (character.repeat(rowNumber));
+}
+
+/*les59*/
