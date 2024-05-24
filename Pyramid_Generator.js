@@ -293,3 +293,8 @@ for (let i = 0; i < count; i = i + 1) {
 }
 
 /*les61*/
+function padRow(rowNumber, rowCount) {
+    return " " + character.repeat(rowNumber) + " ";
+}
+
+/*les62*/
