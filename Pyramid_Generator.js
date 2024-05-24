@@ -284,8 +284,12 @@ function padRow(rowNumber, rowCount) {
 
 /*les59*/
 for (let i = 0; i < count; i = i + 1) {
-  rows.push(padRow())
+    rows.push(padRow())
 }
 
 /*les60*/
+for (let i = 0; i < count; i = i + 1) {
+    rows.push(padRow(i + 1, count))
+}
 
+/*les61*/
