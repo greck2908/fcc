@@ -304,7 +304,10 @@ function padRow(rowNumber, rowCount) {
 
 /*les63*/
 function padRow(rowNumber, rowCount) {
-  return " ".repeat(rowCount - rowNumber) + character.repeat(2 * rowNumber - 1) + " ".repeat(rowCount - rowNumber);
+    return " ".repeat(rowCount - rowNumber) + character.repeat(2 * rowNumber - 1) + " ".repeat(rowCount - rowNumber);
 }
 
 /*les64*/
+for (let i = 0; i < count; i += 1) {
+
+    /*les65*/
