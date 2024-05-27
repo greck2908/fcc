@@ -360,3 +360,7 @@ if ("") {
 }
 
 /*les75*/
+let continueLoop = false;
+let done = 0;
+
+/*les76*/
