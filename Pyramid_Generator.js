@@ -385,3 +385,8 @@ if (done === count) {
 }
 
 /*les80*/
+if (done === count) {
+    continueLoop = false;
+}
+
+/*les81*/
