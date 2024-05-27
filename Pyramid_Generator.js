@@ -402,3 +402,9 @@ while (done !== count) {
 }
 
 /*les83*/
+while (done !== count) {
+    done++;
+    rows.push(padRow(done, count));
+}
+
+/*les84*/
