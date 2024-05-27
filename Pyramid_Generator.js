@@ -364,3 +364,8 @@ let continueLoop = false;
 let done = 0;
 
 /*les76*/
+let continueLoop = false;
+let done = 0;
+while (continueLoop) {}
+
+/*les77*/
