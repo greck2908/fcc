@@ -374,3 +374,9 @@ while (continueLoop) {
 }
 
 /*les78*/
+while (continueLoop) {
+    done++;
+    if (done == count) {}
+}
+
+/*les79*/
