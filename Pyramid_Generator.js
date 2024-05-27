@@ -329,3 +329,9 @@ for (let i = 1; i <= count; i++) {
 }
 
 /*les69*/
+//change another loop
+for (let i = 1; i <= count; i++) {
+    rows.push(padRow(i, count));
+}
+
+/*les70*/
