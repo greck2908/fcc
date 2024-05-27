@@ -393,3 +393,12 @@ if (done === count) {
 rows.push(padRow(done, count));
 
 /*les82*/
+while (done !== count) {
+    done++;
+    rows.push(padRow(done, count));
+    if (done === count) {
+        continueLoop = false;
+    }
+}
+
+/*les83*/
