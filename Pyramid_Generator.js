@@ -390,3 +390,6 @@ if (done === count) {
 }
 
 /*les81*/
+rows.push(padRow(done, count));
+
+/*les82*/
