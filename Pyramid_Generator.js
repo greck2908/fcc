@@ -340,3 +340,8 @@ for (let i = 1; i <= count; i++) {
 }*/
 
 /*les71*/
+if (true) {
+    console.log("Condition is true");
+}
+
+/*les72*/
