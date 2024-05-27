@@ -355,3 +355,8 @@ if ("false") {
 }
 
 /*les74*/
+if ("") {
+    console.log("Condition is true");
+}
+
+/*les75*/
