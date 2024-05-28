@@ -465,3 +465,8 @@ for (let i = count; i > 0; i = i - 1) {
 }
 
 /*les93*/
+for (let i = count; i > 0; i = i - 1) {
+    rows.push(padRow(i, count))
+}
+
+/*les94*/
