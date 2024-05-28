@@ -524,3 +524,6 @@ for (let i = 1; i <= count; i++) {
 }
 
 /*les103*/
+let inverted = true;
+
+/*les104*/
