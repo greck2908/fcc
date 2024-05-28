@@ -519,3 +519,8 @@ for (let i = 1; i <= count; i++) {
 }*/
 
 /*les102*/
+for (let i = 1; i <= count; i++) {
+    rows.unshift(padRow(i, count));
+}
+
+/*les103*/
