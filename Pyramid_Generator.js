@@ -416,3 +416,11 @@ while (done !== count) {
 }
 
 /*les85*/
+let done = 0;
+
+while (done <= count) {
+    done++;
+    rows.push(padRow(done, count));
+}
+
+/*les86*/
