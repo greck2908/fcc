@@ -541,3 +541,11 @@ for (let i = 1; i <= count; i++) {
 }
 
 /*les106*/
+for (let i = 1; i <= count; i++) {
+    if (inverted) {
+        rows.unshift(padRow(i, count));
+    } else {}
+
+}
+
+/*les107*/
