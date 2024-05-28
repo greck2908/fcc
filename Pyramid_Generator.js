@@ -485,3 +485,7 @@ for (let i = count; i > 0; i--) {
 }*/
 
 /*les97*/
+const numbers = [1, 2, 3];
+console.log(numbers);
+
+/*les98*/
