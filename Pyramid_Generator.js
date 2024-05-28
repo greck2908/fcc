@@ -455,3 +455,8 @@ for (let i = count; false; false) {
 }
 
 /*les91*/
+for (let i = count; i > 0; false) {
+
+}
+
+/*les92*/
