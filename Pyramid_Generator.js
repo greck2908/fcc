@@ -445,3 +445,8 @@ while (rows.length < count) {
 }
 
 /*les89*/
+/*while (rows.length < count) {
+  rows.push(padRow(rows.length + 1, count));
+}*/
+
+/*les90*/
