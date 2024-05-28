@@ -502,3 +502,6 @@ console.log(unshifted);
 console.log(numbers);
 
 /*les100*/
+//просто удалить все
+
+/*les101*/
